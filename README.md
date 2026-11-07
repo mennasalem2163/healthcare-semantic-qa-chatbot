@@ -93,10 +93,4 @@ The core retrieval workflow uses **sentence embeddings, similarity search, and a
 | `Copy of NLP Project 1st copy.ipynb` | Main notebook with all code, experiments, and chatbot |
 | `Healthcare chatbot.pptx` | Nine-slide presentation describing the project |
 
-## Project Status
 
-Development prototype.
-
-## License
-
-No license file is currently included.
